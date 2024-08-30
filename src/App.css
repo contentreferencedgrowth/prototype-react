@@ -36,3 +36,109 @@
     transform: rotate(360deg);
   }
 }
+
+.grid {
+  float: left;
+}
+
+.itemImage {
+  width: 350px;
+  position: absolute;
+  right: 100px;
+  top: 125px;
+}
+
+.exampleText {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.levelName{
+    font-weight: bold;
+}
+
+.levelText{
+    text-align: center;
+}
+
+.solutionButton{
+  width: 150px;
+  position: absolute;
+  right: 80px;
+  bottom:-50px;
+}
+
+.itempng {
+  margin-top: 20px;
+}
+
+button {
+  /*background-color: #4CAF50; /* Green */
+  border-color: gray;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+.yaxisbutton {
+  width: 115px
+}
+
+.custom-tooltip{
+  background-color: rgb(120, 120, 119, 0.5);;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.seasonKey{
+  width: 500px;
+  margin: auto;
+}
+
+.itemViewKey {
+  position: absolute;
+  bottom: 50px;
+  left: 300px;
+}
+
+.keycircle{
+  width: 20px;
+  height: 20px;
+}
+
+.seasonText{
+  padding: 5px;
+  display: inline;
+}
+
+li {
+  padding: 5px;
+  margin-left: 5px;
+}
+
+.bottomArrow{
+  position: relative;
+  left: 1250px;
+  bottom:350px;
+}
+
+.lpLevelLabel{
+  font-weight: bold;
+}
+
+.levelDescriptor{
+  text-align: justify;
+  font-size: 10pt;
+}
